@@ -11,6 +11,13 @@
 
   <br />
 
+  <h3>🏆 Baekjoon Solved Rank 🏆</h3>
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1015yellow06)](https://solved.ac/thundevistan/)
+
+
+
+
+  ![](./profile-3d-contrib/profile-gitblock.svg)
 </div>
 
