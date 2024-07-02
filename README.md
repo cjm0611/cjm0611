@@ -12,9 +12,5 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <br />
-
-  <h3>🏆 Baekjoon Solved Rank 🏆</h3>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1015yellow06)](https://solved.ac/thundevistan/)
 </div>
 
