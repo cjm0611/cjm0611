@@ -1,16 +1,24 @@
-
-<div align="center">
-  <h1>Hello, I'm Jimin 👋</h1>
-
-  <h3>📚 Tech Stack 📚</h3>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <br />
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=250&section=header&text=Hello,%20I'm%20Jimin%20👋&fontSize=50" />	
 </div>
 
+<br />
+
+<div align="center" style="position: relative;">
+  <h2>Tech Stack</h2>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,gradle,graphql,mysql" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,jest,npm" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=github,notion" />
+</p>
+</div>
+
+<br />
+
+<div align=center>
+	<h2>Baekjoon solved rank</h2>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1015yellow06)](https://solved.ac/kidscop99)
+</div>
