@@ -26,7 +26,7 @@
 <div align=center>
 	<h2>Baekjoon Solved Rank</h2>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1015yellow06)](https://solved.ac/kidscop99)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1015yellow06)](https://solved.ac/profile/1015yellow06)
 </div>
 
 
